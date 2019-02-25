@@ -7,3 +7,5 @@ This is a public monorepo.
 ```
 npm install
 ```
+
+Note: ...
